@@ -2,5 +2,5 @@
 ## Another hello
 ### And another!
 ```
-Select count(*) from Employess;
+Select count(*) from Employees;
 ```
